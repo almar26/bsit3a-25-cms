@@ -4,7 +4,6 @@
  * student-info controller
  */
 
-// Sample
 
 const { createCoreController } = require('@strapi/strapi').factories;
 
